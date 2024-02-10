@@ -4,7 +4,7 @@ h1 {
     font-weight: bold;
     color: khaki;
     text-align: center;
-    background-image: url("./resources/pattern.jpg")
+    background-image: url("pattern.jpeg");
 }
 
 h2{
@@ -18,8 +18,16 @@ h2{
     background-color: mediumspringgreen;
 }
 
+.frames {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
+}
+
 .pargraph-blue {
-    text-weight: bold;
+    font-weight: bold;
     color: blue;
 
 }
